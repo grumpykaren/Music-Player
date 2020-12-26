@@ -1,0 +1,33 @@
+4
+White Lies - Single
+Max Frost
+1
+music/lowhighlow/lowhighlow.png
+2
+White Lies 
+music/lowhighlow/whitelies.mp3
+White Lies (Remix)
+music/lowhighlow/whiteliesremix.mp3
+Weezer - Teal Album
+Weezer
+1
+music/tealalbum/weezertealalbum.png
+2
+Africa
+music/tealalbum/africa.mp3
+Paranoid
+music/tealalbum/paranoid.mp3
+Big Switch
+Nerve
+1
+music/bigswitch/bigswitch.jpg
+1
+Big Switch
+music/bigswitch/bigswitch.mp3
+Dharma
+EDX
+1
+music/dharma/dharma.png
+1
+Dharma
+music/dharma/dharma.mp3
